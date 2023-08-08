@@ -3,7 +3,7 @@
 This repository contains the code for my portfolio website. The website showcases my skills, experience, and contact information in a visually appealing manner.
 
 Feel free to explore the live version of my portfolio website to see the actual content and animations.
-[my-website](https://atharao.github.io/website/)
+[my-website](https://atharao.github.io/my-website/)
 
 ## Overview
 
