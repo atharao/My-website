@@ -39,4 +39,3 @@ The portfolio website is designed using HTML, CSS, and JavaScript. It showcases 
 1. Clone or download this repository.
 2. Open the `index.html` file in a web browser to view the portfolio website.
 
-Feel free to explore the live version of my portfolio website to see the actual content and animations.
