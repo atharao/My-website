@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This repository contains the code for portfolio website. The website showcases my skills, experience, and contact information in a visually appealing manner.
+This repository contains the Source code for portfolio website.
 
 Feel free to explore the live version of portfolio website to see the actual content and animations
 
@@ -8,7 +8,7 @@ Feel free to explore the live version of portfolio website to see the actual con
 
 ## Overview
 
-The portfolio website is designed using HTML, CSS, and JavaScript. It showcases my profile, services, skills, portfolio, experience, and client testimonials.
+The portfolio website is designed using HTML, CSS, and JavaScript. It showcases profile, services, skills, portfolio, experience, and client testimonials.
 
 ## Technologies Used
 
